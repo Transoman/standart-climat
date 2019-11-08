@@ -286,9 +286,7 @@ input[type="tel"].error{
     margin: 0 auto;
   }
   
-  .nav ul > li > .sub-menu a {
-    padding: 10px 0;
-    font-size: 11px;
-    color: #8c8c8c;
+  .nav ul > li > .sub-menu {
+    display: none;
   }
 }
